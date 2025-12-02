@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+tensorflow-cpu==2.20.0
+numpy
+scipy
+pyttsx3
+pydantic
+requests
+scikit-learn
