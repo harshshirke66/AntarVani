@@ -293,6 +293,15 @@ GET /latest
 📧 **Contact:** shirkeharsh6@gmail.com
 
 ---
+## 📄 Official Research Archive (DOI)
+
+This project is officially archived on Zenodo with a permanent DOI:
+https://doi.org/10.5281/zenodo.18002929
+
+Author: Harsh Shirke  
+License: CC BY-ND 4.0
+
+----------
 
 ### ⭐ If you like this project, kindly star the repository on GitHub!
 
